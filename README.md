@@ -10,5 +10,4 @@ This is a **frontend clone** of the Coding Ninjas website, built using modern we
 - **React**
 - **Tailwind CSS**
 
-## 📁 Project Structure
 
